@@ -1,0 +1,19 @@
+.column1 {
+  width: 300px;
+  float: left;
+  padding: 15px;
+}
+
+img{
+  max-width: 300px;
+  max-height:300px;
+}
+
+.column1 p{
+  font-style:italic;
+}
+.column1 li {
+  font-weight: bold;
+  font-family: fantasy;
+  color: red;
+}
